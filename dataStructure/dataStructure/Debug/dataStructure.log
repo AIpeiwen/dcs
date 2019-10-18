@@ -1,0 +1,10 @@
+﻿  List.cpp
+  ListNode.cpp
+  Test.cpp
+C:\Users\cpxl\source\repos\dataStructure\dataStructure\Vector.cpp(216,1): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\cpxl\source\repos\dataStructure\dataStructure\Vector.cpp(214): message : 在编译 类 模板 成员函数“void Vector<int>::mergeSort(Rank,Rank)”时
+C:\Users\cpxl\source\repos\dataStructure\dataStructure\Test.cpp(21): message : 查看对正在编译的函数 模板 实例化“void Vector<int>::mergeSort(Rank,Rank)”的引用
+  Vector.cpp
+  正在生成代码...
+C:\Users\cpxl\source\repos\dataStructure\dataStructure\Test.cpp(5): message : 查看对正在编译的 类 模板 实例化“Vector<int>”的引用
+  dataStructure.vcxproj -> C:\Users\cpxl\source\repos\dataStructure\Debug\dataStructure.exe
